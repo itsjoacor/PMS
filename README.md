@@ -8,11 +8,10 @@
 ![Mockito](https://img.shields.io/badge/Mockito-009922?style=for-the-badge)
 
 ## About
-Este proyecto consiste en el desarrollo de una aplicación para gestionar el estacionamiento medido en las calles de una localidad específica.
-El diseño del proyecto incorpora diferentes patrones de diseño que ayudaron a resolver conflictos durante su concepción, y se apoya en conocimientos avanzados de Programación Orientada a Objetos.
+This project consists of the development of an application to manage metered parking on the streets of a specific locality. The project design incorporates various design patterns that helped resolve conflicts during its conception, and it is based on advanced knowledge of Object-Oriented Programming (OOP).
 
-## Tecnologías
-Tras llevar a cabo el diseño del sistema utlizando conceptos claves basados en **OOP** se decidio llevar a cabo la representacion del mimso con un **UML**. Para su implementacion, y pdoer afianzar el conocimiento aprendido de **OOP**, el equipo y yo, decidimos implementar la idea utilizando **Java**.
+## Technologies
+After designing the system using key concepts based on OOP, we decided to represent it with a UML diagram. For its implementation and to reinforce the OOP knowledge learned, the team and I decided to implement the idea using Java.
 
-## More 
-Para corroborar una correcta implementación del codigo se realizó de forma incremental realizando **TDD**.
+## More
+To ensure a correct implementation of the code, we followed an incremental approach using TDD (Test-Driven Development). It has not been connected to any database.
