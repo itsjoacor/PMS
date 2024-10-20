@@ -6,3 +6,6 @@ El diseño del proyecto incorpora diferentes patrones de diseño que ayudaron a 
 
 ## Tecnologías
 Tras llevar a cabo el diseño del sistema utlizando conceptos claves basados en **OOP** se decidio llevar a cabo la representacion del mimso con un **UML**. Para su implementacion, y pdoer afianzar el conocimiento aprendido de **OOP**, el equipo y yo, decidimos implementar la idea utilizando **Java**.
+
+## More 
+Para poder llevar a cabo una correcta implementación del proyecto se realizó de forma incremental realizando **TDD**.
