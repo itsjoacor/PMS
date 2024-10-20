@@ -1,9 +1,10 @@
 # Sistema de Estacionamiento Medido
+
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
-![TDD](https://img.shields.io/badge/TDD-Test--Driven%20Development-000000?style=for-the-badge&logo=testing-library&logoColor=white)
-![UML](https://img.shields.io/badge/UML-Modeling-blue?style=for-the-badge)
-![OOP](https://img.shields.io/badge/OOP-Object--Oriented%20Programming-blue?style=for-the-badge)
-![OOD](https://img.shields.io/badge/OOD-Object--Oriented%20Design-green?style=for-the-badge)
+![TDD](https://img.shields.io/badge/TDD-000000?style=for-the-badge&logo=testing-library&logoColor=white)
+![UML](https://img.shields.io/badge/UML-blue?style=for-the-badge)
+![OOP](https://img.shields.io/badge/OOP-blue?style=for-the-badge)
+![OOD](https://img.shields.io/badge/OOD-green?style=for-the-badge)
 
 ## About
 Este proyecto consiste en el desarrollo de una aplicación para gestionar el estacionamiento medido en las calles de una localidad específica.
