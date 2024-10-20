@@ -1,2 +1,6 @@
-Es un proyecto de desarrollo de una aplicacion sobre estacionamiento medido en las calles de una localidad dada.
-El proyecto fue diseñado con diferentes patrones que ayudaron a resolver conflictos que surgieron a la hora de su diseño, y luego se utilizaron conocimientos avanzados de POO para su implementacion en Java.
+# Sistema de Estacionamiento Medido
+
+## About
+Este proyecto consiste en el desarrollo de una aplicación para gestionar el estacionamiento medido en las calles de una localidad específica.
+
+El diseño del proyecto incorpora diferentes patrones de diseño que ayudaron a resolver conflictos durante su concepción, y se apoya en conocimientos avanzados de Programación Orientada a Objetos (POO) para su implementación en **Java**.
