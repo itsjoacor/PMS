@@ -5,6 +5,7 @@
 ![UML](https://img.shields.io/badge/UML-blue?style=for-the-badge)
 ![OOP](https://img.shields.io/badge/OOP-blue?style=for-the-badge)
 ![OOD](https://img.shields.io/badge/OOD-green?style=for-the-badge)
+![Mockito](https://img.shields.io/badge/Mockito-009922?style=for-the-badge)
 
 ## About
 Este proyecto consiste en el desarrollo de una aplicación para gestionar el estacionamiento medido en las calles de una localidad específica.
