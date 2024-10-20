@@ -5,5 +5,4 @@ Este proyecto consiste en el desarrollo de una aplicación para gestionar el est
 El diseño del proyecto incorpora diferentes patrones de diseño que ayudaron a resolver conflictos durante su concepción, y se apoya en conocimientos avanzados de Programación Orientada a Objetos.
 
 ## Tecnologías
-Tras llevar a cabo el diseño del sistema utlizando conceptos claves basados en **OOP** se decidio llevar a cabo la representacion del mimso con un **UML**. Para su implementacion, el equipo y yo decidimos 
-implementar la idea utilizando **Java**.
+Tras llevar a cabo el diseño del sistema utlizando conceptos claves basados en **OOP** se decidio llevar a cabo la representacion del mimso con un **UML**. Para su implementacion, y pdoer afianzar el conocimiento aprendido de **OOP**, el equipo y yo, decidimos implementar la idea utilizando **Java**.
