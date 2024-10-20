@@ -1,4 +1,4 @@
-# Sistema de Estacionamiento Medido
+# Parking Meter System
 
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
 ![TDD](https://img.shields.io/badge/TDD-000000?style=for-the-badge&logo=testing-library&logoColor=white)
